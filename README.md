@@ -2,6 +2,11 @@
 
 Standalone, seven-day travel-planning card game set around Reggio di Calabria.
 
+
+## Play the game
+[▶ Play Silesia 1444]([https://mateuszmilewski.github.io/reggio-di-calabria-quest/])
+
+
 ## Run locally
 
 Download the repository and open `index.html` in a web browser. No installation or build step is required. An internet connection is needed only for the detailed map tiles; the game and card photographs are stored locally.
