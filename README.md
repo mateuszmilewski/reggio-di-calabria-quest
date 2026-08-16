@@ -4,7 +4,7 @@ Standalone, seven-day travel-planning card game set around Reggio di Calabria.
 
 
 ## Play the game
-[▶ Play Silesia 1444]([https://mateuszmilewski.github.io/reggio-di-calabria-quest/])
+[▶ Play THIS MINI_GAME]([https://mateuszmilewski.github.io/reggio-di-calabria-quest/])
 
 
 ## Run locally
